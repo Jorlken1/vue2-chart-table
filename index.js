@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import barChartTable from "./components/barChartTable.vue";
+import barChartTable from "./src/index.vue";
 
 const components = [
     barChartTable,
