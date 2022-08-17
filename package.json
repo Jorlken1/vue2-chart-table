@@ -1,6 +1,6 @@
 {
   "name": "vue2-chart-table",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "带X轴表格",
   "main": "index.js",
   "scripts": {
