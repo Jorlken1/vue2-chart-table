@@ -10,8 +10,8 @@
 
 ```
 ​// main.js ​
-import vue2-chart-table from 'vue2-chart-table'
-Vue.use(vue2-chart-table)
+import vue2ChartTable from 'vue2-chart-table'
+Vue.use(vue2ChartTable)
 ```
 ```
 // ***.vue

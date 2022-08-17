@@ -5,7 +5,7 @@
 <script>
 import * as echarts from "echarts"
 export default {
-  name: "barChartTable",
+  name: "vue2ChartTable",
   data() {
     return {
       // echarts实例
