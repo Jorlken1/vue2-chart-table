@@ -4,16 +4,16 @@
 
 # install
 
-​` npm install jorlken-vue-components ​`
+​` npm install vue2-chart-table ​`
 
 # use
 
 ```
 ​// main.js ​
-import jorlken_vue_components from 'jorlken-vue-components'
-Vue.use(jorlken_vue_components)
+import vue2-chart-table from 'vue2-chart-table'
+Vue.use(vue2-chart-table)
 ```
 ```
 // ***.vue
-`<需要用的组件名字 />`
+`<vue2-chart-table />`
 ```
