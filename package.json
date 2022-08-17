@@ -1,6 +1,6 @@
 {
   "name": "jorlken-vue-components",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "jorlken的Vue组件库",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
   "dependencies": {
     "echarts": "^5.3.3",
     "vue": "^2.6.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jorlken1/jorlken-vue-components.git"
   }
 }
